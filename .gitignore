@@ -1,0 +1,12 @@
+*.*~
+
+*.project
+*.cproject
+*.settings
+
+build/
+data/
+.buildpath
+
+logs-epn-unet-class/
+models/
